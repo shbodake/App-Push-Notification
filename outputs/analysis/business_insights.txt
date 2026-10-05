@@ -1,0 +1,16 @@
+PUSH NOTIFICATION CAMPAIGN ANALYSIS
+=============================================
+
+Total Notifications Sent: 50000
+Total Delivered: 48467
+Delivery Rate: 96.93
+Total Opened: 6379
+Open Rate: 13.16
+Total Clicked: 658
+CTR: 1.36
+Total Conversions: 148
+Conversion Rate: 0.31
+Total Revenue: 278200.03
+Average Order Value: 1879.73
+Highest Revenue Campaign: Abandoned Cart
+Highest Engagement Segment: High Value
